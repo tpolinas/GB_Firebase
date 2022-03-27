@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  VK_GB_Firebase
+
+  Created by Polina Tikhomirova on 27.03.2022.
+  
+*/
+
+Shared.Login = "Войти";
+
+// comment: "Hello"
+Weather.Hello = "Привет!";

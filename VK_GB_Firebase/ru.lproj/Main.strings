@@ -1,0 +1,57 @@
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "12e-MH-t6y"; */
+"12e-MH-t6y.text" = "Войти";
+
+/* Class = "UIButton"; configuration.title = "Enter"; ObjectID = "2Nf-v8-3jH"; */
+"2Nf-v8-3jH.configuration.title" = "Enter";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "2Nf-v8-3jH"; */
+"2Nf-v8-3jH.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "My Weather App"; ObjectID = "3HT-Y9-A1y"; */
+"3HT-Y9-A1y.text" = "ВК";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "997-S4-Ml7"; */
+"997-S4-Ml7.text" = "Пароль";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "9eD-G2-2qi"; */
+"9eD-G2-2qi.placeholder" = "Пароль";
+
+/* Class = "UINavigationItem"; title = "Login"; ObjectID = "EhC-F4-OIP"; */
+"EhC-F4-OIP.title" = "Логин";
+
+/* Class = "UIButton"; configuration.title = "Register & Login"; ObjectID = "G3y-mu-igQ"; */
+"G3y-mu-igQ.configuration.title" = "Зарегистрироваться и войти";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "G3y-mu-igQ"; */
+"G3y-mu-igQ.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "User:"; ObjectID = "T93-em-pYw"; */
+"T93-em-pYw.text" = "Юзер:";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "eMh-w8-fv2"; */
+"eMh-w8-fv2.placeholder" = "Username";
+
+/* Class = "UILabel"; text = "Password:"; ObjectID = "kTF-bt-Cjn"; */
+"kTF-bt-Cjn.text" = "Пароль:";
+
+/* Class = "UILabel"; text = "VK"; ObjectID = "kin-yu-aKQ"; */
+"kin-yu-aKQ.text" = "ВК";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "p24-T2-6kM"; */
+"p24-T2-6kM.placeholder" = "Username";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "rR0-QF-Uif"; */
+"rR0-QF-Uif.placeholder" = "Пароль";
+
+/* Class = "UIButton"; configuration.title = "Login"; ObjectID = "rSG-fU-g09"; */
+"rSG-fU-g09.configuration.title" = "Войти";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "rSG-fU-g09"; */
+"rSG-fU-g09.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Register"; ObjectID = "y4J-Bm-KEG"; */
+"y4J-Bm-KEG.configuration.title" = "Зарегистрироваться";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "y4J-Bm-KEG"; */
+"y4J-Bm-KEG.normalTitle" = "Button";
